@@ -1,89 +1,115 @@
-# Java-Practice
-A collection of Core Java programs, pattern questions, number-based logic problems, and mini project created while learning Java. Includes practice programs, handwritten notes, and an ATM mini project.
+# Java Practice
 
-# Java Practice and Mini Project
+A collection of Java programs, notes, and exercises created while learning Java fundamentals, problem-solving, Object-Oriented Programming (OOP), and Git/GitHub.
 
-This repository contains my Core Java practice programs, handwritten notes, pattern questions, number-based logic problems, and mini project created during my Java learning journey.
+This repository contains topic-wise organized programs covering core Java concepts, programming logic, methods, number systems, pattern printing, and OOP principles.
+
+---
+
+## Repository Structure
+
+```text
+Java-Practice
+│
+├── Basics
+├── Conditional-Statements
+├── Functions
+├── Loops
+├── Number-System
+├── Patterns
+├── OOP
+├── Notes
+└── README.md
+```
+
+---
 
 ## Topics Covered
 
-- Variables and Data Types
-- Input / Output
-- Operators
-- Conditional Statements
-- Loops
-- Functions / Methods
-- Type Casting
-- Pattern Questions
-- Number Programs
-- Binary to Decimal Conversion
-- Prime Numbers
-- Palindrome Programs
-- Factorial Programs
-- ATM Mini Project
+### Basics
 
-## Folder Structure
+* User Input and Output
+* Arithmetic Operations
+* Average Calculation
+* Bill Calculation
+* Area Calculation
 
-- Basics
-- Number Programs
-- Pattern Programs
-- Mini Projects
-- Notes
+### Conditional Statements
 
-## Mini Project Included
+* Positive and Negative Number Check
+* Leap Year Checker
+* Fever Checker
+* Day of Week using Switch Statement
 
-### ATM Machine Mini Project
+### Functions
 
-A menu-driven ATM simulation project built using Java.
+* Average using Methods
+* Product of Two Numbers
+* Sum of Digits
+* Prime Number Checker
+* Prime Numbers in a Range
+* Palindrome Checker
+* Binomial Coefficient
+* Factorial using Methods
+* Boolean-returning Methods
 
-Features:
-- PIN authentication with 3 attempts
-- Check account balance
-- Withdraw money
-- Deposit money
-- Fast cash options
-- Track last deposited amount
-- Track last withdrawn amount
-- Change ATM PIN
-- Exit menu option
+### Loops
 
-This project uses:
-- Scanner class
-- Loops
-- Switch statements
-- Conditional statements
-- Variables and menu-driven logic
+* Factorial Calculation
+* Multiplication Table
+* Sum of Even and Odd Numbers
 
-## Sample Programs Included
+### Number System
 
-- Average of numbers
-- Leap year checker
-- Prime number checker
-- Palindrome checker
-- Binary to Decimal conversion
-- Decimal to Binary conversion
-- Hollow Rectangle Pattern
-- Butterfly Pattern
-- Diamond Pattern
-- Floyd's Triangle
-- Sum of integers
-- Product of numbers
+* Binary to Decimal Conversion
+* Decimal to Binary Conversion
+
+### Pattern Programs
+
+* Butterfly Pattern
+* Floyd's Triangle
+* Number Pyramid
+* Diamond Pattern
+* Hollow Rectangle
+* Hollow Rhombus
+* Solid Rhombus
+* Inverted Pyramid
+* Zero-One Triangle
+
+### Object-Oriented Programming (OOP)
+
+* Classes and Objects
+* Constructors
+* Inheritance
+* Interfaces
+* Multiple Inheritance using Interfaces
+* Method Overloading
+* Method Overriding
+* Abstraction
+* Static Keyword
+* Complex Number Implementation
+
+---
 
 ## Notes
 
-This repository also contains handwritten Java notes covering topics like:
+The repository also contains personal study notes for:
 
-- Flowcharts
-- Pseudocode
-- Java basics
-- Variables and data types
-- Operators
-- Loops
-- Functions
-- Pattern logic
+* Java Fundamentals
+* Object-Oriented Programming (OOP)
+* Git, GitHub, and Git Bash
 
-The notes include examples of prime numbers, loops, conditionals, switch statements, nested loops, methods, type casting, and pattern logic.
+---
+
+## Technologies Used
+
+* Java
+* VS Code
+* Git
+* GitHub
+
+---
 
 ## Purpose
 
-This repository is mainly for practice, revision, and tracking my progress while learning Java.
+This repository documents my Java learning journey through hands-on coding practice and concept implementation. The programs are organized topic-wise to make learning, revision, and concept exploration easier.
